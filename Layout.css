@@ -1,0 +1,30 @@
+.container-lg{
+    background-color: bisque;
+    border: 10px solid black;
+}.h1{
+    border: 5px solid black;}
+
+.navbar navbar-expand-lg bg-light{
+    background-color: bisque;
+    font-size: larger;
+}
+.navbar-brand{
+    background-color: brown;
+}
+.container{
+    background-color: cadetblue;
+    border: 5px solid black
+}
+.container-fluid{
+    background-color: gainsboro;
+}
+.btn btn-info{
+    margin: 5px; 
+}
+.logo{
+    
+}
+
+
+
+  
